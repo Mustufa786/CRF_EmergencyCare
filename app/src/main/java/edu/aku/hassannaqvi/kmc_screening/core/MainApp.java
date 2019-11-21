@@ -76,7 +76,7 @@ public class MainApp extends Application {
     //todo: here irfan
 //    public static String _HOST_URL = "http://" + MainApp._IP + ":" + 8080 + "/kmc/api/"; // change here irfan
 
-    public static String _HOST_URL = "https://" + MainApp._IP +"/crf/api"; // change here irfan
+    public static String _HOST_URL = "https://" + MainApp._IP +"/uen_ec/api"; // change here irfan
 
     public static String _UPDATE_URL = "http://" + MainApp._IP + "/casi/app/";
     public static String deviceId;
