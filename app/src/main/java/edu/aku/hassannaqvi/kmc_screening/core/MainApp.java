@@ -74,9 +74,9 @@ public class MainApp extends Application {
 
     public static boolean isAttitudeCheck = false;
     //todo: here irfan
-    public static String _HOST_URL = "http://" + MainApp._IP + ":" + 8080 + "/kmc/api/"; // change here irfan
+//    public static String _HOST_URL = "http://" + MainApp._IP + ":" + 8080 + "/kmc/api/"; // change here irfan
 
-//    public static String _HOST_URL = "http://" + MainApp._IP +"/crf/"; // change here irfan
+    public static String _HOST_URL = "https://" + MainApp._IP +"/crf/api"; // change here irfan
 
     public static String _UPDATE_URL = "http://" + MainApp._IP + "/casi/app/";
     public static String deviceId;
